@@ -3,7 +3,8 @@ Temperature Logging with a Pot of Coffee
 
 ![Experimenteller Aufbau](src/asset/Experimenteller_Aufbau.jpg)
 Experimenteller Aufbau
-![Temperaturverlaufsdiagramm](src/asset/Temperaturverlaufsdiagramm.jpg)
+
+![Temperaturverlaufsdiagramm](src/asset/Temperaturverlaufsdiagramm.png)
 Temperaturverlaufsdiagramm
 
 ```python
