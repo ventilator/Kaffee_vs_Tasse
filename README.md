@@ -1,7 +1,10 @@
 # Kaffee_vs_Tasse
 Temperature Logging with a Pot of Coffee
 
-![Experimenteller Aufbau](src\asset\Experimenteller_Aufbau.jpg)
+![Experimenteller Aufbau](src/asset/Experimenteller_Aufbau.jpg)
+Experimenteller Aufbau
+![Temperaturverlaufsdiagramm](src/asset/Temperaturverlaufsdiagramm.jpg)
+Temperaturverlaufsdiagramm
 
 ```python
 import pandas as pd
